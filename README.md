@@ -14,15 +14,6 @@ This website showcases my projects, skills, experiences, and achievements in a c
 
 ---
 
-## 📸 Screenshots
-
-| Home Section | Projects Section | Resume Preview |
-|--------------|------------------|----------------|
-| ![Home](./assets/screenshots/home.png) | ![Projects](./assets/screenshots/projects.png) | ![Resume](./assets/screenshots/resume.png) |
-
-> 💡 Place actual screenshots in the `/assets/screenshots/` folder and name them accordingly.
-
----
 
 ## 🚀 Features
 
@@ -53,14 +44,11 @@ This website showcases my projects, skills, experiences, and achievements in a c
 
 ```plaintext
 NVN_WEB/
-├── assets/
-│   ├── neeraj-photo.jpg
-│   ├── nvn-logo.png
-│   ├── snoroCardio-demo.mp4
-│   ├── screenshots/
-│   │   ├── home.png
-│   │   ├── projects.png
-│   │   └── resume.png
+├── img/
+│   ├── SWSL.jpg
+│   ├── Medico_vita.jpg
+│   ├── logo.png
+│   ├── snoroCardio.jpg
 ├── ind.html
 ├── README.md
 └── Neeraj_SDE_Resume.pdf
